@@ -1,0 +1,15 @@
+Personal Financial Report
+Total Income: $2700.0
+Total Expenses: $1380.0
+Net Savings: $1320.0
+
+Expenses by Category:
+Divertissement: $220.0
+Salaire: $1500.0
+Alimentation: $110.0
+Freelance: $1200.0
+Shopping: $100.0
+Santé: $50.0
+Transport: $60.0
+Loisirs: $40.0
+Logement: $800.0
